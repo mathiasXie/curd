@@ -1,4 +1,4 @@
-module curd
+module github.com/mathiasXie/curd
 
 go 1.18
 
